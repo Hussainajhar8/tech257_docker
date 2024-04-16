@@ -1,7 +1,7 @@
 # Docker Basics
 
 Docker utilizes APIs in the background to containerize applications, providing a lightweight alternative to virtual machines.
-![alt text](image.png)
+![alt text](img/image-.png)
 
 - **Building Docker Images**:
   - Use `docker build` command to create a Docker image.
