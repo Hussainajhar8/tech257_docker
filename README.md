@@ -7,7 +7,7 @@ Docker utilizes APIs in the background to containerize applications, providing a
   - Use `docker build` command to create a Docker image.
 
 - **Running Containers**:
-  - Execute `docker run <image>` command to run a Docker container. If the image is not found locally, Docker will pull it from Docker Hub.
+  - Use the `docker run <image>` command to run a Docker container. If the image is not found locally, Docker will pull it from Docker Hub.
    ![alt text](img/image-1.png)
 
 - **Checking Status**:
